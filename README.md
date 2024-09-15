@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daroOkpeku
-- 👀 i am a laravel 9 and react js developer
-- 🌱 I’m currently learning ExpressJS
+- 👀 i am a laravel  and react js developer
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on any Laravel, PHP, Javascript and React project
 - 📫 Okpekuighodaro@gmail.com
 
