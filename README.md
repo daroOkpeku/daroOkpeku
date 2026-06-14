@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daroOkpeku
 - 👀 i am a laravel  and react js developer
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on any Laravel, PHP, Javascript and React project
+- I’m looking to collaborate on any Laravel, PHP, Javascript, AdonisJs, Next js and React project
 - 📫 Okpekuighodaro@gmail.com
 
 <!---
